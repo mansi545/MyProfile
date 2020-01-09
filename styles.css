@@ -1,0 +1,99 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #f1f1f6;
+  font-family: cursive;
+}
+div{
+    background-color: #f1f1f6;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-size: 90px;
+    font-family: cursive;
+    color: #66BFBF;
+    line-height: 2;
+
+}
+h2{
+    font-size: 2.5rem ;
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+h3{
+  color: #11999E;
+
+}
+.footer-link{
+   color: #11999E;
+   margin: 10px 20px;
+   text-decoration: none;
+ }
+ a:hover{
+   color: #EAF6F6;
+ }
+ .copyright{
+   color: #EAF6F6;
+   font-size: 0.75rem;
+   padding: 20px 0;
+ }
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.bottom-container{
+   background-color: #66BFBF;
+   padding:   50px 0 20px;
+   margin-top: 20px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+
+}
+
+.btn {
+	background:linear-gradient(to bottom, #2dabf9 5%, #0688fa 100%);
+	background-color:#2dabf9;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: cursive;
+	font-size:20px;
+	padding: 10px 20px 10px 20px;
+	text-decoration:none;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #0688fa 5%, #2dabf9 100%);
+	background-color:#0688fa;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+/*
+.middle-container{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  border: solid 20px;
+  margin-left: 260px;
+}
+.bottom-container{
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+  border: solid 10px;
+  margin-left: 500px;
+}
+*/
